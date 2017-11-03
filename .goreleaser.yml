@@ -1,0 +1,6 @@
+builds:
+  - binary: asprom
+    goos:
+      - linux
+    goarch:
+      - amd64
